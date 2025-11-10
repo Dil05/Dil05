@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dil05
-- 👀 I’m interested in something about tech
-- 🌱 I’m currently learning python
+- 👀 I’m interested in something about tech, architecture design, software engineer, and web3
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
